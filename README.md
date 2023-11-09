@@ -1,6 +1,6 @@
 # MATLAB Tetris
 The classic game of Tetris recreated in MATLAB!
-<img width="769" alt="demo" src="https://github.com/phoenixpereira/MATLAB-Tetris/assets/47909638/b202077b-f198-4337-8376-037763494320">
+<img width="769" alt="demo" src="https://github.com/phoenixpereira/MATLAB-Tetris/assets/47909638/8c7d0445-eb66-4e28-8edc-336c85547061">
 
 ## Installation
 
