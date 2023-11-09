@@ -5,7 +5,7 @@ The classic game of Tetris recreated in MATLAB!
 ## Installation
 
 1. Clone the repository: [https://github.com/phoenixpereira/MATLAB-Tetris](https://github.com/phoenixpereira/MATLAB-Tetris)
-2. Open MATLAB.
+2. Open the cloned repository's folder in MATLAB.
 3. Run `tetris.m`.
 
 ## How To Play
