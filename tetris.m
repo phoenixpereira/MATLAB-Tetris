@@ -1,6 +1,4 @@
-% Final working version with functions in one file. 
-
-function [] = tetris_v6()
+function [] = tetris()
 
 rng('shuffle');  % Shuffles the seed for the random number generator.
 backgroundColor = [0 0 0]; % Background color of the figure.
@@ -163,7 +161,7 @@ timerDelayPercent = .825;  % Percent of previous timer delay.
 currentLocation = 0; % Initialise variable
 correctColor = 0; % Initialise variable
 currentPreviewNumber = 0; % Initialise variable
-lineIncrement = 5; % Increment level every lineIncrement lines.
+lineIncrement = 10; % Increment level every lineIncrement lines.
 
 % Reads in the sound files
 [y, Fs] = audioread('music/startScreenMusic.mp3');
