@@ -58,8 +58,8 @@ mainAxes = axes('units','pix',...
     'visible','off'); % The main game board
 
 % Template positions for the patch objects for both axes.
-X = [0 .2 0;.2 .8 .2;.2 .8 .8;.8 .2 .8;1 .2 1;0 .2 1;0 .2 0];
-Y = [0 .2 0;.2 .2 .2;.8 .8 .2;.8 .8 .8;1 .2 1;1 .2 0;0 .2 0];
+X = [0 .1 0; .1 .9 .1; .1 .9 .9; .9 .1 .9; 1 .1 1; 0 .1 1; 0 .1 0];
+Y = [0 .1 0; .1 .1 .1; .9 .9 .1; .9 .9 .9; 1 .1 1; 1 .1 0; 0 .1 0];
 g1 = repmat([.9 .65 .4],[1,1,3]); % Grey color used throughout.
 
 previewPosition{1} = [1.5 2.5 3.5 4.5;3 3 3 3]; % Positions of the previews
