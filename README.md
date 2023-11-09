@@ -10,14 +10,14 @@ The classic game of Tetris recreated in MATLAB!
 
 ## How To Play
 
-To move the piece:
+**To move the piece:**
 - Use the left and right arrow keys.
 
-To rotate the piece:
+**To rotate the piece:**
 - Use the up arrow key for clockwise rotation.
 - Use shift + up arrow key for counter-clockwise rotation.
 
-To drop the block down faster:
+**To drop the block down faster:**
 - Use the down arrow key.
 
-Clear multiple lines to score points faster!
+**Clear multiple lines to score points faster!**
